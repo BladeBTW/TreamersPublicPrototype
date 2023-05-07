@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8cec75534d194cf49899a5d2ddc40219
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Elden Font
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 57cb195d09769c44e961714f9131e5c2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
