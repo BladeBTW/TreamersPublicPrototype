@@ -3079,7 +3079,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4fd3bee85ef36864f9b03e5499334fde, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Damage: 200
+  Damage: 20
   TargetTag: Enemy
 --- !u!1001 &1165499717
 PrefabInstance:
